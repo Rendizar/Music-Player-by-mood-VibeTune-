@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Warna Primer (untuk tombol, FAB, dll) -->
+    <color name="md_theme_primary">#FFB3C1</color> <!-- Soft Pink -->
+
+    <!-- Warna Background Utama -->
+    <color name="md_theme_background">#1C1B1F</color> <!-- Hampir Hitam -->
+
+    <!-- Warna untuk Teks dan Ikon -->
+    <color name="md_theme_onPrimary">#4B2530</color> <!-- Teks di atas warna primer -->
+    <color name="md_theme_onBackground">#E6E1E5</color> <!-- Teks di atas background -->
+
+    <!-- Warna untuk card/permukaan yang sedikit lebih terang dari background -->
+    <color name="md_theme_surface">#252328</color> <!-- Abu-abu gelap -->
+    <color name="md_theme_onSurface">#E6E1E5</color> <!-- Teks di atas surface -->
+
+    <!-- Warna untuk status bar & navigation bar transparan -->
+    <color name="transparent">#00000000</color>
+
+    <!-- Warna default bawaan (diperlukan oleh beberapa tema) -->
+    <color name="primary">#FFB3C1</color>
+    <color name="primary_dark">#1C1B1F</color>
+
+</resources>

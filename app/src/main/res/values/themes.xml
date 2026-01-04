@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema utama aplikasi "Vibes Tune" -->
+    <style name="Theme.VibesTune" parent="Theme.Material3.Dark.NoActionBar">
+        <!-- Pengaturan Warna Utama -->
+        <item name="colorPrimary">@color/md_theme_primary</item>
+        <item name="colorOnPrimary">@color/md_theme_onPrimary</item>
+        <item name="android:colorBackground">@color/md_theme_background</item>
+        <item name="colorOnBackground">@color/md_theme_onBackground</item>
+        <item name="colorSurface">@color/md_theme_surface</item>
+
+        <!-- BARIS INI TELAH DIPERBAIKI -->
+        <item name="colorOnSurface">@color/md_theme_onSurface</item>
+
+        <!-- Membuat Status Bar menjadi transparan -->
+        <item name="android:statusBarColor">@color/transparent</item>
+        <!-- Membuat Navigation Bar menjadi transparan -->
+        <item name="android:navigationBarColor">@color/transparent</item>
+
+        <!-- (Opsional) Mengatur agar ikon di status bar menjadi terang (cocok untuk background gelap) -->
+        <item name="android:windowLightStatusBar" tools:targetApi="23">false</item>
+    </style>
+</resources>

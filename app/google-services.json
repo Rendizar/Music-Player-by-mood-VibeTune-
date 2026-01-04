@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "281399712286",
+    "project_id": "tugas-besar-54423",
+    "storage_bucket": "tugas-besar-54423.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281399712286:android:7412035ea0578ed2e9ec0f",
+        "android_client_info": {
+          "package_name": "com.rendizar.uts_api"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUpKzgiL3kfjN-UAQjt2rS0Ru7R-YH3kQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

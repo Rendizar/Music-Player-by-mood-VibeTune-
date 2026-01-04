@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <!-- Izinkan traffic HTTP ke localhost dari emulator -->
+        <domain includeSubdomains="true">10.0.2.2</domain>
+        <!-- (Opsional) Izinkan traffic HTTP ke IP lokal Anda untuk testing di HP fisik -->
+        <domain includeSubdomains="true">192.168.1.5</domain> <!-- Ganti dengan IP laptop Anda -->
+    </domain-config>
+</network-security-config>
